@@ -2,7 +2,7 @@
 
 ## About Dataset
 
-This dataset consists of user ratings for anime titles. Each user in the dataset has provided at least 5 ratings, ensuring a minimum level of engagement. The dataset includes detailed information about both users and anime, making it suitable for tasks such as recommendation systems, user behavior analysis, and genre-based filtering. Dataset is freshly-created so it cover newer animes. Data is provided in the MovieLens format except timestamp column.
+This dataset consists of user ratings for anime titles. Each user in the dataset has provided at least 5 ratings, ensuring a minimum level of engagement. The dataset includes detailed information about both users and anime, making it suitable for tasks such as recommendation systems, user behavior analysis, and genre-based filtering. Dataset is freshly-created so it cover newer animes. Data is provided in the MovieLens format except timestamp column. With minor modifications, the dataset can be used in any recommendation project that utilizes the MovieLens dataset. I was able to train BERT model in https://github.com/jaywonchung/BERT4Rec-VAE-Pytorch project with some small modifications.
 
 ## Dataset Statistics
 
