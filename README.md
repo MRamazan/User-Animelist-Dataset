@@ -2,7 +2,7 @@
 
 ## About Dataset
 
-This dataset consists of user ratings for anime titles. Each user in the dataset has provided at least 5 ratings, ensuring a minimum level of engagement. The dataset includes detailed information about both users and anime, making it suitable for tasks such as recommendation systems, user behavior analysis, and genre-based filtering. Dataset is freshly-created so it cover newer animes.
+This dataset consists of user ratings for anime titles. Each user in the dataset has provided at least 5 ratings, ensuring a minimum level of engagement. The dataset includes detailed information about both users and anime, making it suitable for tasks such as recommendation systems, user behavior analysis, and genre-based filtering. Dataset is freshly-created so it cover newer animes. Data is provided in the MovieLens format except timestamp column.
 
 ## Dataset Statistics
 
