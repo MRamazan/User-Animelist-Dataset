@@ -28,3 +28,6 @@ This dataset consists of user ratings for anime titles. Each user in the dataset
  - Image URL (for visual reference)
  - MyAnimeList URL
  - Genres Detailed Genres
+
+## Download
+Dataset available at kaggle https://www.kaggle.com/datasets/tavuksuzdurum/user-animelist-dataset
