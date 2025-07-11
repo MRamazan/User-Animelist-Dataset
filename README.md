@@ -32,6 +32,10 @@ This dataset consists of user ratings for anime titles. Each user in the dataset
 ## Download
 Dataset available on kaggle https://www.kaggle.com/datasets/tavuksuzdurum/user-animelist-dataset
 
+## Medium
+I analyzed the data in my Medium article [here](https://medium.com/@ramazantrn/5-million-anime-lists-collected-from-myanimelist-anilist-and-kitsu-a-massive-dataset-for-a4d6225a70ba)
+
+
 ## Statistics
 <img src="statistics1.jpg" alt="Recommendations" width="1100">
 
