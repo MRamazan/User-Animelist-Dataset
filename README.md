@@ -33,7 +33,7 @@ This dataset consists of user ratings for anime titles. Each user in the dataset
 Dataset available on kaggle https://www.kaggle.com/datasets/tavuksuzdurum/user-animelist-dataset
 
 ## Statistics
-<img src="statistics1.jpg" alt="Recommendations" width="700">
+<img src="statistics1.jpg" alt="Recommendations" width="1100">
 
 <img src="statistics2.jpg" alt="Recommendations" width="1100" height="550">
 
