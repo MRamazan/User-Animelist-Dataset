@@ -38,3 +38,5 @@ Dataset available on kaggle https://www.kaggle.com/datasets/tavuksuzdurum/user-a
 <img src="statistics2.jpg" alt="Recommendations" width="700">
 
 <img src="statistics3.jpg" alt="Recommendations" width="700">
+
+<img src="statistics4.jpg" alt="Recommendations" width="700">
